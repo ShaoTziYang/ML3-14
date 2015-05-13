@@ -4,8 +4,8 @@ Final year project of the Hong University of Science and Technology, 2015 depart
 This project was aimed to create a software framework that enables Simultaneous Localization and Mapping( A.K.A. SLAM) with multiple robots on a median level laptop. The entire framework is established on Robot Operating System( A.K.A. ROS, link http://www.ros.org/).
 ##Related Libraries
 This framework mainly consists of two SLAM methods, a monocular density SLAM called *LSD-SLAM[1]*, and a visual-based topological SLAM called *FAB-MAP[2]*. Point cloud obtained are filtered with the help of implementation in the Point Cloud Library, *PCL[3]*.  
-[1] LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14  
+*[1] LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14*  
 *(link http://vision.in.tum.de/research/lsdslam)*  
-[2]  FAB-MAP,Accelerated Appearance-Only SLAM,M. Cummins, P. Newman, ICRA '08  
+*[2]  FAB-MAP,Accelerated Appearance-Only SLAM,M. Cummins, P. Newman, ICRA '08*  
 *(link http://www.robots.ox.ac.uk/~mjc/Software.htm)*  
-[3] Point Cloud Library *(link http://www.pointclouds.org/)* 
+*[3] Point Cloud Library (link http://www.pointclouds.org/)* 
